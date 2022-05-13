@@ -797,12 +797,26 @@ box-shadow: 1px 0.6px 12px #4e4f57 !important;
 /* ============contact_part end============ */
 /* ============footer_part start============ */
 #footer_part{
-    padding-top: 30px;
+    margin-top: 70px;
     text-align: center;
+    background: #252734;
+    width: 100%;
+    height: 400px;
 }
-#footer_part img{
+#footer_part .footer_item img{
     width: 300px;
-    height: 200px;
+    margin-top: -70px;
+}
+#footer_part .footer_item h3{
+    margin-top: -90px;
+}
+#footer_part .footer_item p {
+    width: 700px;
+    padding: 20px 0px 10px 375px;
+}
+#footer_part .footer_item span{
+    color: #858792;
+    font-size: 16px;
 }
 /* ============footer_part end============ */
 .back_top a{
