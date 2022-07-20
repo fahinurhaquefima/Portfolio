@@ -766,7 +766,7 @@ box-shadow: 1px 0.6px 12px #4e4f57 !important;
 }
 #registration label {
     display: inline-block;
-    padding: 0px 212px 15px 0px;
+    padding-right: 40px;
     font-size: 20px;
     color: #858792;
 }
